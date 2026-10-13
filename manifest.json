@@ -1,0 +1,30 @@
+{
+ "name": "Reinata-05 Agenda",
+ "short_name": "Reinata-05",
+ "description": "Jadwal main dan keuangan Reinata-05",
+ "start_url": "./",
+ "scope": "./",
+ "display": "standalone",
+ "orientation": "portrait",
+ "background_color": "#070b14",
+ "theme_color": "#070b14",
+ "lang": "id",
+ "icons": [
+  {
+   "src": "icon-192.png",
+   "sizes": "192x192",
+   "type": "image/png"
+  },
+  {
+   "src": "icon-512.png",
+   "sizes": "512x512",
+   "type": "image/png"
+  },
+  {
+   "src": "maskable-512.png",
+   "sizes": "512x512",
+   "type": "image/png",
+   "purpose": "maskable"
+  }
+ ]
+}
